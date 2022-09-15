@@ -1,0 +1,11 @@
+
+‡
+java:S1319"lThe type of "participants" should be an interface such as "List" rather than the implementation "ArrayList".(ÙÂÑïøÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(œÃÏ
+‚
+java:S1319#"lThe type of "participants" should be an interface such as "List" rather than the implementation "ArrayList".(ø•ßÔ
+R
+java:S22092"5Change this instance-reference to a static reference.(óËÓĞ8Ï®”€´0
+W
+java:S22096"5Change this instance-reference to a static reference.(¹ˆşèıÿÿÿÿ8Ğ®”€´0

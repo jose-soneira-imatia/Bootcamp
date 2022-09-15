@@ -1,0 +1,18 @@
+
+‚
+java:S1319
+"gThe type of "garages" should be an interface such as "List" rather than the implementation "ArrayList".(Ðò¢¹üÿÿÿÿ
+}
+java:S1319"gThe type of "garages" should be an interface such as "List" rather than the implementation "ArrayList".(•åØ°
+}
+java:S1319'"gThe type of "garages" should be an interface such as "List" rather than the implementation "ArrayList".(•€ÅÙ
+U
+java:S1118":Add a private constructor to hide the implicit public one.(‘•Šåþÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÛ¾•
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÜÙÀÝ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¯ÿÐòúÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ü‰•Žúÿÿÿÿ8ÑÝûƒ´0
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(Æ¥ñ–ûÿÿÿÿ8²¶þƒ´0
+?
+java:S1172'")Remove this unused method parameter "sc".(•€ÅÙ
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(×’´Óýÿÿÿÿ8çËÿƒ´0
